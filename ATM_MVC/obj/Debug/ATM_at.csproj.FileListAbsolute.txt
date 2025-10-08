@@ -1,0 +1,8 @@
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\bin\Debug\ATM_at.exe.config
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\bin\Debug\ATM_at.exe
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\bin\Debug\ATM_at.pdb
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\obj\Debug\ATM_at.csproj.AssemblyReference.cache
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\obj\Debug\ATM_at.csproj.CoreCompileInputs.cache
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\obj\Debug\ATM_at.exe
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\obj\Debug\ATM_at.pdb
+C:\Users\pc1_24\Documents\praktika 10b\ATM_at\obj\Debug\ATM_at.exe.config
